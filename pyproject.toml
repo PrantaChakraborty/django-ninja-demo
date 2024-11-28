@@ -1,0 +1,11 @@
+[project]
+name = "demo-django-application-with-django-ninja"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "django-ninja>=1.3.0",
+    "django>=5.1.3",
+    "psycopg2-binary>=2.9.10",
+]
