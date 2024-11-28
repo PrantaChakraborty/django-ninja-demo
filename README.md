@@ -21,7 +21,7 @@ Before you begin, ensure you have the following installed:
 
 1. **Clone the repository:**
 ```bash
-git clone <your-repo-url>
+git clone git@github.com:PrantaChakraborty/django-ninja-demo.git
 cd demo-django-application-with-django-ninja
 ```
 
